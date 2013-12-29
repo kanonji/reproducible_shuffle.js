@@ -1,0 +1,14 @@
+{
+  "name": "reproducible_shuffle",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kanonji",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "mersennetwister": "~0.1.1"
+  }
+}
