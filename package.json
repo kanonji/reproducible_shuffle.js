@@ -1,8 +1,8 @@
 {
   "name": "reproducible_shuffle",
   "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Shuffle array reproducible based on seed.",
+  "main": "src/reproducible_shuffle.js",
   "scripts": {
     "test": "jasmine-node spec"
   },
